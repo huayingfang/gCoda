@@ -1,0 +1,13 @@
+Title: gCoda: conditional dependence network inference for compositional data
+Version: 1.0
+Author: Huaying Fang, Chengcheng Huang, Hongyu Zhao and Minghua Deng
+Description: Conditional dependence network inference for compositional data
+Maintainer: Huaying Fang <hyfang@pku.edu.cn>
+License: GNU LGPL-v3
+Date/Publication: 2016-05-21
+Dependence: huge
+NeedsCompilation: No
+Test Platform: R-3.1.2 in Platform: i386-w64-mingw32/i386 (32-bit)
+Url: Also see http://www.math.pku.edu.cn/teachers/dengmh/gCoda/ 
+
+
